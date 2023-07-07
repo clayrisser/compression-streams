@@ -4,6 +4,8 @@
 
 > javascript polyfill for compression streams specification
 
+![](assets/compression-streams.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 ## Installation
